@@ -31,8 +31,8 @@ multi_agent_system/
 
 1.  **Clone the repository (if applicable):**
     ```bash
-    # git clone <repository_url>
-    # cd multi_agent_system
+    # git clone https://github.com/Saiii05/multi_agent_ai.git
+    # cd multi_agent_ai
     ```
 
 2.  **Create a virtual environment (recommended):**
