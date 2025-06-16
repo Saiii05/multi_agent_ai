@@ -21,7 +21,6 @@ multi_agent_system/
 ├── utils/                  # Utility functions
 │   └── api_helpers.py      # For loading API keys from .env
 ├── evals/                  # Evaluation scripts and notes
-├── .env.example            # Example for API key configuration
 ├── .env                    # Actual API key configuration (gitignored)
 ├── requirements.txt        # Python dependencies
 └── README.md               # This file
